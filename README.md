@@ -25,6 +25,10 @@ Go to the project directory
 ```
 
 ```bash
+    php artisan storage:link
+```
+
+```bash
     php artisan migrate:fresh --seed
 ```
 
