@@ -15,7 +15,11 @@ Go to the project directory
   cd project-name
 ```
 
--   Copy .env.example file to .env and edit database credentials there
+-   Copy example.env file to .env and edit database credentials there
+
+```bash
+    create database in xampp : ecommerce
+```
 
 ```bash
     composer install
@@ -31,6 +35,14 @@ Go to the project directory
 
 ```bash
     php artisan migrate:fresh --seed
+```
+
+```bash
+    php artisan serve
+```
+
+```bash
+    Starting Laravel development server: http://127.0.0.1:8000
 ```
 
 #### Login
