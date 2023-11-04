@@ -1,4 +1,11 @@
-# Laravel 8 - Point of Sale Application
+# Maemoh Petshop - POS
+
+## Screenshots
+
+![preview img](/photo/dashboard.jpg)
+![preview img](/photo/product.jpg)
+![preview img](/photo/pos.jpg)
+
 
 ## Run Locally
 
